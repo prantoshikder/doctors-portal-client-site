@@ -3,17 +3,17 @@ import DoctorsCard from '../DoctorsCard/DoctorsCard';
 
 const doctorsData = [
     {
-        image: 'https://img.techpowerup.org/201010/doctor.png',
+        image: 'https://img.techpowerup.org/201011/doctor-sm.png',
         name: 'Dr. Caudi',
         phone: '+61 452 200 126'
     },
     {
-        image: 'https://img.techpowerup.org/201010/doctor.png',
+        image: 'https://img.techpowerup.org/201011/doctor-sm.png',
         name: 'Dr. Caudi',
         phone: '+61 452 200 126'
     },
     {
-        image: 'https://img.techpowerup.org/201010/doctor.png',
+        image: 'https://img.techpowerup.org/201011/doctor-sm.png',
         name: 'Dr. Caudi',
         phone: '+61 452 200 126'
     }

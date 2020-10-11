@@ -1,7 +1,7 @@
 .doctors-profile h4 {
-    margin-left: 110px;
+    text-align: center;
 }
 
 .icon-phoneNumber {
-    margin-left: 90px;
+    justify-content: center;
 }
