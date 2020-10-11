@@ -1,0 +1,20 @@
+.appointment-btn {
+    padding: 6px 20px;
+    background-color: #1CC7C1;
+    color: #fff;
+    font-weight: bold;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    margin-top: 10px;
+    transition: all linear .3s;
+}
+
+.appointment-btn:focus {
+    outline: none;
+}
+
+.appointment-btn:hover {
+    background: #3A4256;
+    color: #1CC7C1;
+}

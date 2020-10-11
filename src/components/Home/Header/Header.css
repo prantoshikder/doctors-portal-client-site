@@ -1,5 +1,5 @@
 .header-part {
-    height: 100vh;
+    height: 92vh;
     width: 100%;
     position: relative;
     background-image: url('../../../images/Mask Group 2.png');
@@ -7,7 +7,7 @@
 }
 
 .header-part::after {
-    height: 100vh;
+    height: 92vh;
     content: ' ';
     position: absolute;
     top: 0;

@@ -14,3 +14,20 @@
     opacity: .9;
     z-index: -1;
 }
+
+.contact-btn {
+    padding: 6px 0px;
+    background-color: #1CC7C1;
+    width: 300px;
+    color: #fff;
+    font-weight: bold;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    margin-top: 10px;
+    transition: all linear .3s;
+}
+
+.contact-btn:focus {
+    outline: none;
+}

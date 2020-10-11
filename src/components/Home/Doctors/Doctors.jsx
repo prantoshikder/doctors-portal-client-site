@@ -21,7 +21,7 @@ const doctorsData = [
 
 const Doctors = () => {
     return (
-        <div className="doctors-part mt-5 mb-5">
+        <section className="doctors-part mt-5 mb-5">
             <div className="doctorsCard">
                 <div className="container">
                     <div className="doctors-heading">
@@ -36,7 +36,7 @@ const Doctors = () => {
                     </div>
                 </div>
             </div>
-        </div>
+        </section>
     );
 };
 

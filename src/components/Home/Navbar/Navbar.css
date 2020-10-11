@@ -5,7 +5,11 @@
 .navbar-nav {}
 
 .navbar-nav .nav-item {
-    margin-right: 15px;
+    margin-left: 15px;
 }
 
-.navbar-nav .nav-item .nav-link {}
+.navbar-nav .nav-item .nav-link {
+    color: #1CC7C1 !important;
+    font-weight: bold;
+    font-size: 17px;
+}

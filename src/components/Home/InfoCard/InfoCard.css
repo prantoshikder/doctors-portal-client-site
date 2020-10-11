@@ -3,6 +3,7 @@
     padding: 40px;
     height: 120px;
     color: #fff;
+    border-radius: 5px;
 }
 
 .infoData-dark {
@@ -10,6 +11,7 @@
     padding: 40px;
     height: 120px;
     color: #fff;
+    border-radius: 5px;
 }
 
 .infoData-icon {

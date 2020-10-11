@@ -4,7 +4,7 @@ import './MakeAppointment.css';
 
 const MakeAppointment = () => {
     return (
-        <div className="appointment">
+        <section className="appointment">
             <div className="make-appointment">
                 <div className="appointment-overlay">
                     <div className="container">
@@ -17,14 +17,14 @@ const MakeAppointment = () => {
                                     <h5 className="text-primary">APPOINTMENT</h5>
                                     <h2 className="">Make an appointment <br/> Today</h2>
                                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum mollitia eius sequi? Aperiam, rerum commodi?</p>
-                                    <button className="btn btn-primary">Learn More</button>
+                                    <button className="makeAppointment-btn">Learn More</button>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-        </div>
+        </section>
     );
 };
 

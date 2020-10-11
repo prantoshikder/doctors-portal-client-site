@@ -21,7 +21,7 @@ const Contact = () => {
                            <textarea name="" className="form-control" id="" rows="5" placeholder="Message *"></textarea>
                        </div>
                        <div className="form-group text-center">
-                           <button type="button" style={{backgroundColor: '#1CC7C1', color:'white', width:'250px', borderRadius:'5px', padding:'10px 0px'}} className="font-weight-bold"> Submit </button>
+                           <button type="button" className="contact-btn"> Submit </button>
                        </div>
                    </form>
                 </div>

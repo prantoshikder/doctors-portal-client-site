@@ -27,7 +27,7 @@ const testimonialData =[
 
 const Testimonials = () => {
     return (
-        <div className="testimonials mt-5 mb-5">
+        <section className="testimonials mt-5 mb-5">
             <div className="container">
                 <div className="test-heading d-flex justify-content-between">
                     <div className="test-content">
@@ -46,7 +46,7 @@ const Testimonials = () => {
                     }
                 </div>
             </div>
-        </div>
+        </section>
     );
 };
 
