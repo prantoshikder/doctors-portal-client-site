@@ -1,0 +1,13 @@
+.serviceCard {
+    height: 250px;
+    padding: 2px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px #3A4256;
+    margin-top: 20px;
+    transition: all linear .3s;
+}
+
+.serviceCard:hover {
+    background-color: #3A4256;
+    color: #fff;
+}

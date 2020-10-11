@@ -1,0 +1,18 @@
+.infoData-primary {
+    background-color: #1CC7C1;
+    padding: 40px;
+    height: 120px;
+    color: #fff;
+}
+
+.infoData-dark {
+    background-color: #3A4256;
+    padding: 40px;
+    height: 120px;
+    color: #fff;
+}
+
+.infoData-icon {
+    font-size: 3em;
+    /* margin: 0px 15px; */
+}

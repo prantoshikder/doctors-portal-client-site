@@ -1,0 +1,22 @@
+.appointment {
+    /* height: 90vh; */
+}
+
+.make-appointment {
+    background-image: url('../../../images/appointment-img.png');
+    background-repeat: no-repeat;
+    background-position: left center;
+    height: 370px;
+    /* margin-top: 200px; */
+    /* background-size: cover; */
+}
+
+.appointment-overlay {
+    background-color: rgba(58, 66, 86, 0.95);
+    height: 370px;
+}
+
+.make-appointment img {
+    position: relative;
+    bottom: 75px;
+}

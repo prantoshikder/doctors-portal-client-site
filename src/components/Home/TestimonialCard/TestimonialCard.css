@@ -1,0 +1,6 @@
+.testCard {
+    height: 350px;
+    border-radius: 5px;
+    box-shadow: 5px 5px 10px #3A4256;
+    padding: 25px;
+}
