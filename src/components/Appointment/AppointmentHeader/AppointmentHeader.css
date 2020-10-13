@@ -1,0 +1,18 @@
+.AppointmentHeader-part {
+    height: 92vh;
+    width: 100%;
+    position: relative;
+    background-image: url('../../../images/Mask Group 2.png');
+    background-size: cover;
+}
+
+.AppointmentHeader-part::after {
+    height: 92vh;
+    content: ' ';
+    position: absolute;
+    top: 0;
+    width: 32%;
+    right: 0;
+    background-color: #3A4256;
+    z-index: -20;
+}
